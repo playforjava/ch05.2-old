@@ -1,4 +1,4 @@
-ch03.2-warehouse-poc-model-mapped
+ch05.2-warehouse-poc-model-mapped
 =================================
 
-Chapter 3 sample application: Warehouse PoC, mapped datamodel
+[Play for Java](http://bit.ly/playjava), Chapter 5 sample application: Warehouse PoC, mapped datamodel
